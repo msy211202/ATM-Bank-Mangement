@@ -1,6 +1,6 @@
 # ATM-Bank-Management-System-Java
 
-### A simple ATM Bank Management System in Java. It allows users to perform various operations such as:
+### A simple ATM Bank Management System in Java which uses SQl server using xamp and SQL Server Management Studio. It allows users to perform various operations such as:
 -  Creating a new account,
 -  Deleting an account,
 -  Updating an account,
